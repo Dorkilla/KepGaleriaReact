@@ -1,4 +1,5 @@
 import Kartya from './Kartya.js';
+import './Jatekter.css';
 
 export default function Jatekter(props){
     return (
